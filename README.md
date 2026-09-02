@@ -46,4 +46,4 @@ Structured six-stage EDA workflow:
 
 ---
 
-*Author: ASUS · Graded EDA lab, Day 3 — Business Dataset track.*
+
