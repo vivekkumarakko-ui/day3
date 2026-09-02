@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-## 📊 Project: Exploratory Data Analysis — SaaS Customer Churn (CloudPulse)
+## Project: Exploratory Data Analysis — SaaS Customer Churn (CloudPulse)
 
 **Notebook:** [`EDA_Customer_Churn_Portfolio.ipynb`](./EDA_Customer_Churn_Portfolio.ipynb)
 
@@ -9,7 +9,7 @@ CloudPulse, an enterprise B2B SaaS platform, experienced a sharp rise in custome
 
 ---
 
-### 🎯 Executive Summary — Top 3 Findings
+### Executive Summary — Top 3 Findings
 
 1. **Contract type is the dominant churn driver.** Month-to-Month customers churn at a dramatically higher rate than One-Year and especially Two-Year contract holders — contract commitment is the strongest protective factor in the dataset.
 2. **Support ticket volume is a leading indicator of churn.** Churn probability accelerates sharply as ticket counts climb; customers filing multiple tickets are signaling dissatisfaction well before they leave.
@@ -17,7 +17,7 @@ CloudPulse, an enterprise B2B SaaS platform, experienced a sharp rise in custome
 
 ---
 
-### 🔬 Methodology
+###  Methodology
 
 Structured six-stage EDA workflow:
 
@@ -38,7 +38,7 @@ Structured six-stage EDA workflow:
 
 ---
 
-### 💡 Recommended Strategic Interventions
+### Recommended Strategic Interventions
 
 1. **Contract migration campaign** — incentivize Month-to-Month customers to upgrade to annual/two-year plans (discounts, loyalty pricing) to lock in the strongest churn-reducing factor.
 2. **Proactive support-ticket triggers** — flag accounts crossing a ticket-volume threshold for immediate Customer Success outreach before dissatisfaction converts to churn.
